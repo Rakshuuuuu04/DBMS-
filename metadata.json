@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack",
+  "description": "Digital Process Monitoring System for educational institutions, featuring admin, faculty, and student dashboards with real-time attendance and evaluation tracking.",
+  "requestFramePermissions": []
+}
